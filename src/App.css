@@ -1,0 +1,22 @@
+
+body{
+    box-sizing: border-box;
+    font-family: "Roboto", Arial !important;
+    background: #d5d4d4;
+}
+.container{
+    max-width: 1080px;
+    margin: 2rem auto 0 auto;
+}
+
+.info{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin-top: 1rem;
+    color: rgba(237, 62, 62, 0.858);
+    font-size: 1rem;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
